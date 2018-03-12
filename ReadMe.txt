@@ -1,0 +1,2 @@
+- Rolling hash implementation using Rabin Karp algorithm
+- alpha is 31
